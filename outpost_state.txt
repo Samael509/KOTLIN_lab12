@@ -1,0 +1,5 @@
+1   | minerals   | 90
+2   | gas        | 50
+99  | energy     | 20
+1   | Minerals   | 300
+2   | gas        | 100
